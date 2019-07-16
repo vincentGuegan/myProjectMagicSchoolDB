@@ -1,20 +1,14 @@
-# myProjectMagicSchoolDB
-
-
 # Challenge
 
-#### Création d'une API pour les écoles de magie
+#### Insertion d'une école dans la base de données
 
-Démarrer une API pour récupérer des informations sur les écoles de magie :
+Poursuis ton API sur les écoles de magie en rajoutant une route pour insérer des données :
 
--   Génère un projet Spring, dans lequel tu vas créer un contrôleur.
--   Retourne pour la route  `/api/schools`  -- méthode GET -- toutes les écoles de la table  `school`. Retourne bien  **tous**  les champs de la table :  `id`,  `name`,  `capacity`,  `country`.
--   Si la route contient un paramètre  `country`, retourne uniquement les écoles du pays demandé. Par exemple, pour  `/api/schools?country=France`, tu dois retourner uniquement les écoles françaises.
--   Pousse le contenu de ton projet dans un dépôt GitHub et poste le lien de ton dépôt en guise de solution.
+-   Reprends le projet que tu as créé précédemment.
+-   Ajoute une route  `/api/schools`  -- méthode POST -- pour insérer une école dans la table  `school`. La route attend des valeurs pour  **tous**  les champs non générés de la table :  `name`,  `capacity`,  `country`.
+-   Pousse le contenu de ton projet dans ton dépôt GitHub et poste le lien de ton dépôt en guise de solution.
 
 #### Critères de validation
 
--   Le projet contient un contrôleur séparé de l'application.
--   La route  `/api/schools`  retourne tous les champs pour toutes les écoles de la table  `school`.
--   Les résultats peuvent être filtrés par un paramètre  `country`.
+-   La route  `/api/schools`  avec la méthode POST permet d'insérer une école dans la table  `school`.
 -   Le code est disponible sur GitHub.
