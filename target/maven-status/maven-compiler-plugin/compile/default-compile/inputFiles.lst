@@ -1,2 +1,4 @@
-/Users/admin/Documents/WCS/Spring/Spring-JDBC/myProjectMagicSchoolDB/src/main/java/com/magicschool/MyProjectMagicSchoolDB/controllers/SchoolController.java
-/Users/admin/Documents/WCS/Spring/Spring-JDBC/myProjectMagicSchoolDB/src/main/java/com/magicschool/MyProjectMagicSchoolDB/MyProjectMagicSchoolDbApplication.java
+/Users/admin/Documents/WCS/Spring/Spring-JDBC/InsererDesDonnees/myProjectMagicSchoolDB/src/main/java/com/magicschool/MyProjectMagicSchoolDB/repositories/SchoolRepository.java
+/Users/admin/Documents/WCS/Spring/Spring-JDBC/InsererDesDonnees/myProjectMagicSchoolDB/src/main/java/com/magicschool/MyProjectMagicSchoolDB/controllers/SchoolController.java
+/Users/admin/Documents/WCS/Spring/Spring-JDBC/InsererDesDonnees/myProjectMagicSchoolDB/src/main/java/com/magicschool/MyProjectMagicSchoolDB/entities/School.java
+/Users/admin/Documents/WCS/Spring/Spring-JDBC/InsererDesDonnees/myProjectMagicSchoolDB/src/main/java/com/magicschool/MyProjectMagicSchoolDB/MyProjectMagicSchoolDbApplication.java
